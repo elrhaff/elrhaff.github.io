@@ -1,29 +1,23 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://elrhaff.github.io
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+title:               Hamza El Rhaffouli
+tagline:             'Blog about my self-learning errands'
+description:         'A blog to keep track of my self-learning adventures and side projects.
+<br /> By <a href="https://twitter.com/SonSonVallano" target="_blank">@SonSonVallano</a>.'
+url:                 https://elrhaff.github.io/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Hamza El Rhaffouli 
+  url:               github.com/elrhaff
+ # email:             
+
+# Gems
+plugins:
+  - jekyll-paginate
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+version:             0.1
+# google_analytics_id: 
