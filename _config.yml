@@ -1,6 +1,6 @@
 # Setup
 title:               Hamza El Rhaffouli
-tagline:             'Blog about my self-learning errands'
+tagline:             'Blog'
 description:         'A blog to keep track of my self-learning adventures and side projects.
 <br /> By <a href="https://twitter.com/SonSonVallano" target="_blank">@SonSonVallano</a>.'
 url:                 https://elrhaff.github.io/
@@ -20,4 +20,4 @@ plugins:
 
 # Custom vars
 version:             0.1
-# google_analytics_id: 
+# google_analytics_id:
