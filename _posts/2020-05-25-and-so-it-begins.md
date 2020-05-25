@@ -20,6 +20,3 @@ I will most likely be writting about:
 
 See you arround!
 
------
-
-This blog is hosted on [Github Pages](http://pages.github.com), runs on [Jekyll](https://jekyllrb.com/) and is using the awesome [Lanyon](https://github.com/poole/lanyon/) theme.
