@@ -5,7 +5,7 @@ description:         'A blog to keep track of my self-learning adventures and si
 <br /> By <a href="https://twitter.com/SonSonVallano" target="_blank">@SonSonVallano</a>.'
 url:                 https://elrhaff.github.io/
 baseurl:             ''
-paginate:            5
+paginate:            10
 permalink:           pretty
 
 # About/contact
