@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Remove files already on your remote using .gitignore
+title: Remove files you already commited to your remote using .gitignore
 comments: true
 ---
 
-Oops! I did it again.
+Oops! I commited files I don't want to be tracked to the remote again.
 
 My most frequent oversight when dealing with git is creating a commit that includes files that I do not wish to be tracked, because I forgot to update the `.gitignore` file.
 
@@ -26,6 +26,6 @@ The files shouldn't appear in the remote anymore.
 <div class="message">
     <strong>⚠️ Important note:</strong>
 
-    <p>This will remove the files from the current state of your remote, but they will still be visible in your git's history. This might be an issue if you committed a large file or something sensitive like credentials. In that case, you probably want to purge it from git's history. <a href="https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository">Here</a>'s a resource on how to fix it in that case. 
+    <p>This will remove the files from the current state of your remote, but they will still be visible in your git's history. This might be an issue if you committed a large file or something sensitive like credentials. In that case, you probably want to purge it from your repository's history. <a href="https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository">Here</a>'s a resource on how to fix it in that case. 
     </p>
 </div>
