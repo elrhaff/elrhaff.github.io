@@ -4,7 +4,7 @@ title: And So It Begins
 comments: false
 ---
 
-I decided to start this blog to keep track of side projects and help others quistart their errands. This includes programming languages, frameworks, best practices, etc.
+I decided to start this blog to keep track of side projects and help others quickstart their errands. This includes programming languages, frameworks, best practices, etc.
 
 ### What to expect
 
