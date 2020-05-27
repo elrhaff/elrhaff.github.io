@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remove files you already commited to your remote using .gitignore
+title: Remove, using .gitignore, files that you already commited to your remote
 comments: true
 ---
 
