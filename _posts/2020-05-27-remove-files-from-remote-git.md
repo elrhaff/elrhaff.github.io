@@ -26,6 +26,6 @@ The files shouldn't appear in the remote anymore.
 <div class="message">
     <strong>⚠️ Important note:</strong>
 
-    <p>This will remove the files from the current state of your remote, but they will still be visible in your git's history. This might be an issue if you committed a large file or something sensitive like credentials. In that case, you probably want to purge it from git's history. Here's a <a href="https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository">resource</a> on how to do it. 
+    <p>This will remove the files from the current state of your remote, but they will still be visible in your git's history. This might be an issue if you committed a large file or something sensitive like credentials. In that case, you probably want to purge it from git's history. <a href="https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository">Here</a>'s a resource on how to fix it in that case. 
     </p>
 </div>
