@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remove, using .gitignore, files that you already commited to your remote
+title: Remove files from your remote git repository
 comments: true
 ---
 
@@ -13,7 +13,7 @@ If you have already pushed your commit, then creating a new commit with an updat
 If you're as clumsy as I am, then here's what to do:
 
 * Configure your `.gitignore` correctly by adding the files or directories you wish to ignore.
-* Run the following commands:
+* Run the following commands at the base of your local repository:
 ```bash
 git rm -r --cached .
 git add .
