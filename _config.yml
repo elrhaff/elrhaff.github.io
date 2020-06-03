@@ -1,8 +1,8 @@
 # Setup
 title:               Hamza El Rhaffouli
 tagline:             'Blog'
-description:         'A blog to keep track of my self-learning adventures and side projects.
-<br /> By <a href="https://twitter.com/SNeturo" target="_blank">@SNeturo</a>.'
+description:         'A blog to keep track of my self-learning adventures and side projects.'
+
 url:                 https://elrhaff.github.io/
 baseurl:             ''
 paginate:            10
