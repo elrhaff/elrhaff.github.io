@@ -4,7 +4,7 @@ title: Remove files from your remote git repository
 comments: true
 ---
 
-Oops! I commited files I don't want to be tracked to the remote again.
+Oops! I committed files (that I don't want to be tracked) to the remote again.
 
 My most frequent oversight when dealing with git is creating a commit that includes files that I do not wish to be tracked, because I forgot to update the `.gitignore` file.
 
